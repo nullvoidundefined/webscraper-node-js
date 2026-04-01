@@ -13,6 +13,7 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "@bottomlessmargaritas/claude-architecture-prompts": "^3.0.0",
     "axios": "^1.14.0",
     "cheerio": "^1.2.0",
     "playwright": "^1.58.2"
